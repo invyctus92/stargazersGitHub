@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<RCTScrollView
+  ListEmptyComponent={<NoData />}
+  data={Array []}
+  getItem={[Function]}
+  getItemCount={[Function]}
+  initialNumToRender={7}
+  keyExtractor={[Function]}
+  onContentSizeChange={[Function]}
+  onLayout={[Function]}
+  onMomentumScrollBegin={[Function]}
+  onMomentumScrollEnd={[Function]}
+  onScroll={[Function]}
+  onScrollBeginDrag={[Function]}
+  onScrollEndDrag={[Function]}
+  removeClippedSubviews={false}
+  renderItem={[Function]}
+  scrollEventThrottle={50}
+  showsVerticalScrollIndicator={false}
+  stickyHeaderIndices={Array []}
+  style={
+    Object {
+      "backgroundColor": "white",
+      "height": "100%",
+      "width": "100%",
+    }
+  }
+  viewabilityConfigCallbackPairs={Array []}
+>
+  <View>
+    <View
+      style={
+        Object {
+          "alignContent": "center",
+          "alignItems": "center",
+          "flex": 1,
+          "flexDirection": "column",
+          "height": 200,
+          "justifyContent": "center",
+        }
+      }
+    >
+      <Text>
+        Here you will display the Stargazers found
+      </Text>
+    </View>
+  </View>
+</RCTScrollView>
+`;

@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<TextInput
+  onChangeText={[Function]}
+  placeholder=""
+  style={
+    Object {
+      "backgroundColor": "#ffffff",
+      "borderColor": "#3d3d3d",
+      "borderRadius": 15,
+      "borderWidth": 1,
+      "padding": 10,
+      "width": "80%",
+    }
+  }
+  value=""
+/>
+`;
